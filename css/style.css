@@ -629,3 +629,7 @@ nav ul li a {
 .credits {
   font-size: 13px;
 }
+
+span.spamprotection {
+  display:none;
+}
